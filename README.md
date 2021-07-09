@@ -2,7 +2,8 @@
 An Ark Rest Api Server
 
 Endpoints:
-`/api/users/{id}`
+
+`/api/users/{id}` /n
 `/api/users/{id}/shop`
 `/api/users/{id}/kits`
 `/api/users/{id}/lootboxes`
