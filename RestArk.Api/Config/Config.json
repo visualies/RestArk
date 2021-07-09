@@ -1,0 +1,9 @@
+{
+  "Connection": {
+    "Host": "",
+    "User": "",
+    "Password": "",
+    "Database": "",
+    "Port": 3306
+  }
+}
