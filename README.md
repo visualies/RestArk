@@ -1,5 +1,5 @@
-# BaseService
-A microservice base using repository pattern, UnitOfWork & Dapper with PostgreSql.
+# RestArk
+An Ark Rest Api Server
 
 Ready to be containerized with docker.
 
